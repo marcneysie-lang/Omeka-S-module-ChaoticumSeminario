@@ -11,7 +11,7 @@
 <https://jardindesconnaissances.univ-paris8.fr/onto/jdc#> a owl:Ontology ;
     dcterms:title "Jardin des connaissances" .
 
-jdc:SemanticPosition a rdfs:Class ;
+num:SemanticPosition a rdfs:Class ;
     rdfs:label "SemanticPosition" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
